@@ -10,7 +10,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Joshuapavan/Proctoring-AI-FE
+   git clone https://github.com/Sharath-kumar04/Proctoring-AI-FE.git
    ```
 2. **Install dependencies:**
 
